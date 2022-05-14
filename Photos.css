@@ -4,11 +4,13 @@
 
 .u-section-1 .u-text-1 {
   font-size: 1.875rem;
+  font-weight: normal;
   margin: 0 auto 60px;
 }
 
-@media (max-width: 1199px) {
+@media (max-width: 575px) {
   .u-section-1 .u-text-1 {
-    font-weight: normal;
+    width: auto;
+    margin-top: -84px;
   }
 }
