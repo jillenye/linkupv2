@@ -23,7 +23,7 @@
 .u-section-1 .u-text-3 {
   font-size: 3.75rem;
   font-family: "Antic Didone";
-  margin: 101px 26px 60px;
+  margin: 135px 0 50px 52px;
 }
 
 @media (max-width: 1199px) {
@@ -62,6 +62,11 @@
   .u-section-1 .u-btn-1 {
     margin-left: -9px;
   }
+
+  .u-section-1 .u-text-3 {
+    margin-top: 96px;
+    margin-bottom: 57px;
+  }
 }
 
 @media (max-width: 767px) {
@@ -86,7 +91,8 @@
   }
 
   .u-section-1 .u-text-3 {
-    margin-top: 181px;
+    margin-top: 139px;
+    margin-bottom: 60px;
   }
 }
 
@@ -107,7 +113,9 @@
 
   .u-section-1 .u-text-3 {
     font-size: 1.875rem;
-    margin: 153px 0 60px;
+    margin-top: 152px;
+    margin-left: 0;
+    margin-right: 0;
   }
 }.u-section-2 .u-sheet-1 {
   min-height: 428px;
@@ -115,7 +123,8 @@
 
 .u-section-2 .u-gallery-1 {
   height: 375px;
-  margin: 53px 0 0;
+  margin-top: 15px;
+  margin-bottom: 38px;
 }
 
 .u-section-2 .u-gallery-item-1 {
@@ -185,8 +194,8 @@
 
 @media (max-width: 1199px) {
   .u-section-2 .u-gallery-1 {
-    margin-right: initial;
-    margin-left: initial;
+    margin-top: 25px;
+    margin-bottom: 28px;
   }
 }
 
@@ -194,8 +203,6 @@
   .u-section-2 .u-gallery-1 {
     margin-top: -238px;
     margin-bottom: 60px;
-    margin-right: initial;
-    margin-left: initial;
   }
 }.u-section-3 .u-sheet-1 {
   min-height: 794px;
@@ -208,7 +215,7 @@
 
 .u-section-3 .u-image-1 {
   min-height: 791px;
-  background-image: url("images/Chains.webp");
+  background-image: url("images/IMG-8923.JPG");
   background-position: 50% 50%;
 }
 
@@ -447,7 +454,7 @@
 
 @media (max-width: 991px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 723px;
+    min-height: 414px;
   }
 
   .u-section-4 .u-text-1 {
@@ -459,6 +466,7 @@
   .u-section-4 .u-text-2 {
     width: auto;
     margin-top: 48px;
+    margin-bottom: 0;
   }
 }
 
@@ -474,7 +482,7 @@
 
 @media (max-width: 575px) {
   .u-section-4 .u-sheet-1 {
-    min-height: 857px;
+    min-height: 550px;
   }
 
   .u-section-4 .u-text-1 {
@@ -483,6 +491,6 @@
 
   .u-section-4 .u-text-2 {
     margin-top: 44px;
-    margin-bottom: 0;
+    margin-bottom: 24px;
   }
 }
