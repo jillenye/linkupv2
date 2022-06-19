@@ -11,12 +11,18 @@
 .u-section-1 .u-text-2 {
   font-size: 1.875rem;
   font-weight: 700;
-  margin: 19px 1px 26px;
+  margin: 19px 10px 26px 1px;
 }
 
 .u-section-1 .u-btn-1 {
   background-image: none;
   padding: 0;
+}
+
+@media (max-width: 1199px) {
+  .u-section-1 .u-text-2 {
+    margin-right: 1px;
+  }
 }
 
 @media (max-width: 575px) {
@@ -131,6 +137,15 @@
 }
 
 .u-section-2 .u-btn-9 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-table-cell-51 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-btn-10 {
   background-image: none;
   padding: 0;
 }
