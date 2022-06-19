@@ -11,7 +11,12 @@
 .u-section-1 .u-text-2 {
   font-size: 1.875rem;
   font-weight: 700;
-  margin: 19px auto 26px 4px;
+  margin: 19px 1px 26px;
+}
+
+.u-section-1 .u-btn-1 {
+  background-image: none;
+  padding: 0;
 }
 
 @media (max-width: 575px) {
@@ -117,6 +122,15 @@
 }
 
 .u-section-2 .u-btn-8 {
+  background-image: none;
+  padding: 0;
+}
+
+.u-section-2 .u-table-cell-46 {
+  font-weight: 700;
+}
+
+.u-section-2 .u-btn-9 {
   background-image: none;
   padding: 0;
 }
