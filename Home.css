@@ -96,23 +96,27 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1290px;
+    min-height: 1212px;
   }
 
   .u-section-1 .u-text-1 {
     font-size: 3.75rem;
-    margin-top: 78px;
+    margin-top: -56px;
     margin-left: 3px;
     margin-right: 3px;
   }
 
+  .u-section-1 .u-text-2 {
+    margin-top: 58px;
+  }
+
   .u-section-1 .u-btn-2 {
-    margin-top: -408px;
+    margin-top: -406px;
   }
 
   .u-section-1 .u-text-3 {
     font-size: 1.875rem;
-    margin-top: 363px;
+    margin-top: 410px;
     margin-left: 0;
     margin-right: 0;
   }
