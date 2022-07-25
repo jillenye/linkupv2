@@ -94,6 +94,7 @@
 
   .u-section-1 .u-gallery-1 {
     height: 784px;
+    margin-bottom: 20px;
     margin-right: initial;
     margin-left: initial;
   }
@@ -105,7 +106,7 @@
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 2586px;
+    min-height: 2556px;
   }
 
   .u-section-1 .u-text-2 {
@@ -114,6 +115,7 @@
 
   .u-section-1 .u-gallery-1 {
     height: 2352px;
+    margin-bottom: 0;
     margin-right: initial;
     margin-left: initial;
   }
@@ -125,7 +127,7 @@
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1715px;
+    min-height: 1485px;
   }
 
   .u-section-1 .u-text-1 {
