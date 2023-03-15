@@ -26,13 +26,13 @@
 
 .u-section-1 .u-btn-3 {
   background-image: none;
-  margin: -343px auto 0 480px;
+  margin: -501px auto 0 480px;
 }
 
 .u-section-1 .u-text-3 {
   font-size: 3.75rem;
   font-family: "Antic Didone";
-  margin: 329px 0 60px 52px;
+  margin: 487px 0 60px 52px;
 }
 
 @media (max-width: 1199px) {
@@ -66,22 +66,22 @@
 
 @media (max-width: 991px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1101px;
+    min-height: 1378px;
   }
 
   .u-section-1 .u-btn-3 {
     align-self: center;
-    margin-top: -338px;
+    margin-top: -554px;
   }
 
   .u-section-1 .u-text-3 {
-    margin: 331px 51px 0;
+    margin: 547px 51px 0;
   }
 }
 
 @media (max-width: 767px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1313px;
+    min-height: 1599px;
   }
 
   .u-section-1 .u-text-1 {
@@ -90,18 +90,17 @@
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: -450px;
-    margin-left: 196px;
+    margin-top: -674px;
   }
 
   .u-section-1 .u-text-3 {
-    margin: 405px -8px 31px;
+    margin: 629px -8px 31px;
   }
 }
 
 @media (max-width: 575px) {
   .u-section-1 .u-sheet-1 {
-    min-height: 1428px;
+    min-height: 1745px;
   }
 
   .u-section-1 .u-text-1 {
@@ -112,17 +111,21 @@
   }
 
   .u-section-1 .u-text-2 {
-    margin-top: 58px;
+    margin-top: 64px;
+  }
+
+  .u-section-1 .u-btn-1 {
+    font-size: 1.875rem;
   }
 
   .u-section-1 .u-btn-3 {
-    margin-top: -626px;
-    margin-left: auto;
+    margin-top: -921px;
   }
 
   .u-section-1 .u-text-3 {
     font-size: 1.875rem;
-    margin-top: 630px;
+    font-weight: 700;
+    margin-top: 919px;
     margin-left: 0;
     margin-right: 0;
   }
